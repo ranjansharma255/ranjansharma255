@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/66041077/99185789-24145780-2772-11eb-9281-2b0075c617e3.gif">
 
-- 🔭 I’m currently Studying at [Malla Reddy Engineering College](mrec.ac.in)
+- 🔭 I’m currently Studying at [Malla Reddy Engineering College](http://www.mrec.ac.in/)
 
 - 🌱 Consistent on **Coding**
 
