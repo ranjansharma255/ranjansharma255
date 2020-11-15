@@ -15,6 +15,7 @@
 - 💬 Ask me about **Competitive Programming and Front-End stuff!!**
 
 - 📫 How to reach me **ranjansharma255@gmail.com**
+-  ⚡ Fun fact I'm cool!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
