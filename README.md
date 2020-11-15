@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/ranjans01871748" target="blank"><img src="https://img.shields.io/twitter/follow/ranjans01871748?logo=twitter&style=for-the-badge" alt="ranjans01871748" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/66041077/99185789-24145780-2772-11eb-9281-2b0075c617e3.gif)">
-
 - 🔭 I’m currently Studying at [Malla Reddy Engineering College](mrec.ac.in)
 
 - 🌱 Consistent on **Coding**
@@ -15,6 +13,7 @@
 - 💬 Ask me about **Competitive Programming and Front-End stuff!!**
 
 - 📫 How to reach me **ranjansharma255@gmail.com**
+
 -  ⚡ Fun fact I'm cool!
 
 <h3 align="left">Connect with me:</h3>
