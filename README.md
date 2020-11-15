@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dwarka Ranjan Sharma</h1>
 <h3 align="center">I'm very passionate about Competitive Coding!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjansharma255&label=Profile%20views&color=0e75b6&style=flat" alt="ranjansharma255" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjansharma255" alt="ranjansharma255" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ranjans01871748" target="blank"><img src="https://img.shields.io/twitter/follow/ranjans01871748?logo=twitter&style=for-the-badge" alt="ranjans01871748" /></a> </p>
 
 - 🔭 I’m currently Studying at [Malla Reddy Engineering College](mrec.ac.in)
