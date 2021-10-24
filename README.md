@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dwarka Ranjan Sharma</h1>
-<h3 align="center">I'm very passionate about Competitive Coding!</h3>
+<h3 align="center">I'm very passionate about Problem solving!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjansharma255&label=Profile%20views&color=0e75b6&style=flat" alt="ranjansharma255" /> </p>
 
@@ -9,8 +9,6 @@
 - 🔭 I’m currently Studying at [Malla Reddy Engineering College](mrec.ac.in)
 
 - 🌱 Consistent on **Coding**
-
-- 💬 Ask me about **Competitive Programming and Front-End stuff!!**
 
 - 📫 How to reach me **ranjansharma255@gmail.com**
 
