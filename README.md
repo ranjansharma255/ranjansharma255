@@ -25,7 +25,7 @@
 
 <a href="https://www.codechef.com/users/ranjansharma25"><img align="left" src="https://raw.githubusercontent.com/ranjansharma255/ranjansharma255/master/images/facebook.png" alt="codechef" width="30px"/></a>
 
-<a href="https://www.hackerrank.com/ranjansharma255"><img align="left" src="https://raw.githubusercontent.com/ranjansharma255/ranjansharma255/master/images/facebook.png" alt="hackerrank" width="30px"/></a>
+<a href="https://www.hackerrank.com/ranjansharma255"><img align="left" src="https://raw.githubusercontent.com/ranjansharma255/ranjansharma255/master/images/hackerrank.png" alt="hackerrank" width="30px"/></a>
   
 <a href="https://codeforces.com/profile/ranjan_sharma"><img align="left" src="https://raw.githubusercontent.com/ranjansharma255/ranjansharma255/master/images/facebook.png" alt="codeforces" width="30px"/></a>
 <br>
