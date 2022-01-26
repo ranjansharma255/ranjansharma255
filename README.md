@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p>
  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dwarkaranjansharma/"><img align="left" src="https://raw.githubusercontent.com/ranjansharma255/ranjansharma255/master/images/linkedin.png" alt="LinkedIn" width="30px"/></a>
+<a href="https://www.linkedin.com/in/dwarkaranjansharma/"><img align="left" src="https://raw.githubusercontent.com/ranjansharma255/ranjansharma255/master/images/linkedin.png" alt="LinkedIn" width="30px"/></a>
 
 <a href="https://instagram.com/ranjan_sharma_rs"><img align="left" src="https://raw.githubusercontent.com/ranjansharma255/ranjansharma255/master/images/instagram.png" alt="Instagram" width="30px"/></a>
   
