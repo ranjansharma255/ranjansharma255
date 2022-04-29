@@ -31,6 +31,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=ranjansharma255&style=flat-square&color=1f6feb">
+<hr>
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=ranjansharma255&theme=radical&bg_color=00000000&point=00000000&line=1f6feb&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=1f6feb&area=true&area_color=1f6feb">
+</div>
+
 <div align="center">
 <img width="410px" src="https://github-readme-stats.vercel.app/api?username=ranjansharma255&show_icons=true&count_private=true&icon_color=1f6feb&title_color=1f6feb&color=1fdbd8&bg_color=000000&border_color=1f6feb&text_color=1f6feb" />
 <img width="410px" src="http://github-readme-streak-stats.herokuapp.com?user=ranjansharma255&date_format=M%20j%5B%2C%20Y%5D&sideNums=1f6feb&ring=1f6feb&background=000000&dates=1f6feb&currStreakNum=1f6feb&currStreakLabel=1f6feb&fire=1f6feb&sideLabels=1f6feb&stroke=1f6feb&border=1f6feb" />
