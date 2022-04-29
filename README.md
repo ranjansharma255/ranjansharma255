@@ -35,7 +35,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ranjansharma255&style=flat-square&color=1f6feb">
 <hr>
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ranjansharma255&theme=radical&bg_color=00000000&point=00000000&line=1f6feb&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=ffffff&area=true&area_color=1f6feb">
+<img src="https://activity-graph.herokuapp.com/graph?username=ranjansharma255&theme=radical&bg_color=00000000&point=00000000&line=1f6feb&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=1f6feb&area=true&area_color=1f6feb">
 </div>
 
 <div align="center">
